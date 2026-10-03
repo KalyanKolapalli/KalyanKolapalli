@@ -9,10 +9,10 @@ I build web projects that turn everyday tasks into clear, usable interfaces. Thi
 
 | Project | Focus | Stack |
 | --- | --- | --- |
-| [CampusFlow](https://github.com/KalyanKolapalli/campusflow-student-dashboard) | Interactive student dashboard with editable timetables, tasks, campus search, and multi-screen navigation | HTML, CSS, JavaScript |
-| [AccessAI](https://github.com/KalyanKolapalli/accessai-accessibility-workspace) | Accessibility analysis workspace with scan results, editable findings, and guidance views | HTML, CSS, JavaScript |
-| [SkillSphere](https://github.com/KalyanKolapalli/skillsphere-interactive-portfolio) | Interactive developer portfolio with editable projects, skills, and profile sections | HTML, CSS, JavaScript |
-| [TripCanvas](https://github.com/KalyanKolapalli/tripcanvas-itinerary-planner) | Travel itinerary planner with editable plans, map search, budgeting, and trip views | HTML, CSS, JavaScript |
+| [CampusFlow](https://github.com/KalyanKolapalli/campusflow-student-dashboard) | Interactive student dashboard with editable timetables, tasks, campus search, and multi-screen navigation | UX design, local storage, responsive UI |
+| [AccessAI](https://github.com/KalyanKolapalli/accessai-accessibility-workspace) | Accessibility analysis workspace with scan results, editable findings, and guidance views | Accessibility, form design, user feedback |
+| [SkillSphere](https://github.com/KalyanKolapalli/skillsphere-interactive-portfolio) | Interactive developer portfolio with editable projects, skills, and profile sections | Personal branding, animations, interaction design |
+| [TripCanvas](https://github.com/KalyanKolapalli/tripcanvas-itinerary-planner) | Travel itinerary planner with editable plans, map search, budgeting, and trip views | Information architecture, planning flows, responsive design |
 | [CareerBoard](https://github.com/KalyanKolapalli/careerboard-job-tracker) | Job application stages, follow-up dates, local persistence and CSV export | HTML, CSS, JavaScript |
 | [React Recipe App](https://github.com/KalyanKolapalli/React-Receipies-App) | Recipe application | React, JavaScript |
 | [React E-commerce](https://github.com/KalyanKolapalli/React-E-commerce) | E-commerce interface | React, JavaScript |
